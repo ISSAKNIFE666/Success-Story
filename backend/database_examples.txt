@@ -1,0 +1,25 @@
+Categories:
+- Cigars
+- Gift Boxes
+- Accessories
+
+Users:
+- John Doe (email: john@example.com)
+- Jane Smith (email: jane@example.com)
+
+Products:
+- Montecristo No.5 Single - Medium (price: 24.40, category: Cigars)
+- Cohiba La Linea Siglo V1 - Medium (price: 113.40, category: Cigars)
+- Jose L. Piedra Cremas - Medium (price: 20.50, category: Cigars)
+- H. Upmann Magnum 50 - Light/Medium (price: 54.70, category: Cigars)
+- Montecristo No.2 Single - Medium/Full (price: 49.90, category: Cigars)
+- Trinidad Vigia - Medium (price: 56.90, category: Cigars)
+- Cohiba Siglo I - Medium (price: 40.90, category: Cigars)
+- Hoyo de Monterrey Petit Robusto - Light (price: 34.40, category: Cigars)
+- Seleccion Piramide Gift Box (price: 355.00, category: Gift Boxes)
+- Hoyo de Monterrey Souvenir de Luxe tin (price: 135.00, category: Gift Boxes)
+- Montecristo Open Eagle Leather Case (price: 153.00, category: Accessories)
+
+Orders:
+- Order 1: User: John Doe, Product: Montecristo No.5 Single - Medium, Quantity: 1
+- Order 2: User: Jane Smith, Product: Cohiba La Linea Siglo V1 - Medium, Quantity: 2 

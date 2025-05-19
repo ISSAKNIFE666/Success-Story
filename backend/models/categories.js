@@ -1,6 +1,6 @@
 const {Sequelize, DataTypes } = require("sequelize")
 
-module.exports=(Sequelize)=>{
+module.exports = (Sequelize, DataTypes) => {
     const Categories = Sequelize.define(
         "categories",{
             id: {
